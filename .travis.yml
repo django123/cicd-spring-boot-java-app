@@ -1,0 +1,9 @@
+#We use java
+
+language: java
+
+
+#We add jdk
+
+jdk:
+- openjdk8
